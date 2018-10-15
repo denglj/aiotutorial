@@ -10,4 +10,4 @@ code snippets for asyncio tutorial
 ## 联系方式
 * 微信公众号 驹说码事(jushuoms)
 
-![jushuoms](http://7xn3rj.com1.z0.glb.clouddn.com/jushuoms.jpg)
+![jushuoms](https://s3-ap-northeast-1.amazonaws.com/jushuoms/qrcode_for_gh_051bba6db8aa_258.jpg)
